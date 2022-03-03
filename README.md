@@ -1,4 +1,4 @@
-# husarnet-ssh-server (SSH proxy)
+# husarnet-ssh-proxy
 
 SSH to Husarnet container then from Husarnet container SSH to a host.
 
